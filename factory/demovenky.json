@@ -1,0 +1,9 @@
+{
+	"name": "demovenky",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd41e4a0-d03f-4639-b6cf-9420e7c1df3e",
+		"tenantId": "73c1657f-5530-44d5-bd0f-fa2b309a00f4"
+	}
+}
